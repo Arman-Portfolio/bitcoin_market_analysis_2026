@@ -1,7 +1,7 @@
 # Bitcoin Market Analysis (2026)
 
 ## Overview
-This project analyzes Bitcoin price movements from January 2026 to present, focusing on identifying crash periods, volume-driven trends, and market recovery behavior.
+This project analyzes Bitcoin price movements from January 2026 to April, focusing on identifying crash periods, volume-driven trends, and market recovery behavior.
 
 The goal is to understand how price and volume interact to signal panic selling, accumulation, and trend strength.
 
