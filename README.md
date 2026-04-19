@@ -8,7 +8,7 @@ The goal is to understand how price and volume interact to signal panic selling,
 ---
 
 ## Dataset
-- Period: Jan 2026 – Present
+- Period: Jan 2026 – April
 - Fields: Date, Open, High, Low, Close, Volume
 
 ---
